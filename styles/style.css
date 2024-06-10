@@ -80,9 +80,7 @@
 .header__theme-menu-button {
   background: none;
   border: none;
-  /* padding: 0 13px;
-  inline-size: 44px;
-  block-size: 24px; */
+  font-weight: 400;
 }
 
 .header__title {
