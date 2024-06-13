@@ -8,6 +8,7 @@
   :root {
     --accent-color: #FF8DCB;
     --decor-element-color: #353430;
+    --border-hover: rgba(50, 49, 45, 0.40);
     --h1-color: #FFC2E6;
     --text-color: #353430;
     --text_accent-color: #353430;
@@ -27,6 +28,7 @@
 .page.theme_light {
   --accent-color: #FF8DCB;
   --decor-element-color: #353430;
+  --border-hover: rgba(50, 49, 45, 0.40);
   --h1-color: #FFC2E6;
   --text-color: #353430;
   --text_accent-color: #353430;

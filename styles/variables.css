@@ -6,10 +6,10 @@
 :root {
   --accent-color: #FF0070;
   --decor-element-color: #FF0070;
+  --border-hover: rgba(255, 0, 112, 0.40);
   --h1-color: #DB00FF;
   --text-color: #F1B2CE;
   --text_accent-color: #000028;
   --font-size_main: 18px;
-  --font-family_main: 'IBM Plex Mono', sans-serif;
   --background-image: url(../images/cover-image-dark.png);
 }
