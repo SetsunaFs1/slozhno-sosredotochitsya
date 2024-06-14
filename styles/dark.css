@@ -7,6 +7,7 @@
 .page.theme_dark {
   --accent-color: #FF0070;
   --decor-element-color: #FF0070;
+  --border-hover: rgba(255, 0, 112, 0.40);
   --h1-color: #DB00FF;
   --text-color: #F1B2CE;
   --text_accent-color: #000028;
