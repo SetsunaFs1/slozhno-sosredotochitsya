@@ -13,6 +13,3 @@
 **Результат:** практика в работе с адаптивностью, позиционированием элементом через flex и grid.
   
 **https://github.com/SetsunaFs1/slozhno-sosredotochitsya**
-
-
-https://github.com/SetsunaFs1/slozhno-sosredotochitsya
